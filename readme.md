@@ -1,19 +1,11 @@
-# who-that-api [![Build Status](https://secure.travis-ci.org/johnotander/who-that-api.svg?branch=master)](https://travis-ci.org/johnotander/who-that-api) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# who-that-api
 
 Who that?
 
-## Installation
-
-```bash
-npm install --save who-that-api
-```
-
 ## Usage
 
-```javascript
-var whoThatApi = require('who-that-api')
-
-whoThatApi()  // => true
+```sh
+curl 'https://who-that-api-mxqweflsit.now.sh/?github=johnotander&npm=johno'
 ```
 
 ## License
