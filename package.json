@@ -14,8 +14,10 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
+    "get-query-param": "^1.0.0",
     "is-present": "^1.0.0",
-    "micro": "^6.0.1"
+    "micro": "^6.0.1",
+    "who-that": "^0.1.0"
   },
   "devDependencies": {}
 }
