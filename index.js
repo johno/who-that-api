@@ -9,7 +9,7 @@ module.exports = async function (req, res) {
   const npm = getQueryParam('npm', fullUrl)
   const github = getQueryParam('github', fullUrl)
 
-  if (isBlank(npm) || isBlank(github)) {
+  if (isBlank(github)) {
     return send(res, 406)
   }
 
