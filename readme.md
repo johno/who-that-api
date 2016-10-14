@@ -5,7 +5,7 @@ Who that?
 ## Usage
 
 ```sh
-curl 'https://who-that-api-mxqweflsit.now.sh/?github=johnotander&npm=johno'
+curl 'https://who-that.now.sh/?github=johnotander&npm=johno'
 ```
 
 ## License
